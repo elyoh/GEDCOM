@@ -80,7 +80,7 @@
     "contact": "GEDCOM@familysearch.org",
     "change-controller": "FindAGrave.com",
     "reference": "https://support.findagrave.com/s/article/Cemetery-Search"
-  }
+  },
   {
     "label": "BillionGraves Grave ID",
     "type": "https://www.billiongraves.com/grave/",
