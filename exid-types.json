@@ -67,7 +67,7 @@
   },
   {
     "label": "FindAGrave Memorial ID",
-    "type": "https://www.findagrave.com/memorial",
+    "type": "https://www.findagrave.com/memorial/",
     "description": "FindAGrave Memorial ID",
     "contact": "GEDCOM@familysearch.org",
     "change-controller": "FindAGrave.com",
@@ -75,7 +75,7 @@
   },
   {
     "label": "FindAGrave Cemetery ID",
-    "type": "https://www.findagrave.com/cemetery",
+    "type": "https://www.findagrave.com/cemetery/",
     "description": "FindAGrave Cemetery ID",
     "contact": "GEDCOM@familysearch.org",
     "change-controller": "FindAGrave.com",
